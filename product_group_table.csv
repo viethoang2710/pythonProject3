@@ -1,0 +1,11 @@
+ProductGroupID,ProductGroupName,Description,Category,SubCategory,ParentGroupID,CreatedDate,LastUpdatedDate,IsActive,ImageURL
+1,Smartphones,All smartphone types,Electronics,Mobile Devices,NULL,1/1/2023,6/1/2023,1,url/to/smartphones.jpg
+2,Tablets,All tablet types,Electronics,Mobile Devices,NULL,2/1/2023,6/2/2023,1,url/to/tablets.jpg
+3,Laptops,All laptop types,Electronics,Computers,NULL,3/1/2023,6/3/2023,1,url/to/laptops.jpg
+4,Desktops,All desktop types,Electronics,Computers,NULL,4/1/2023,6/4/2023,1,url/to/desktops.jpg
+5,Smartwatches,All smartwatch types,Electronics,Wearables,NULL,5/1/2023,6/5/2023,1,url/to/smartwatches.jpg
+6,Headphones,All headphone types,Electronics,Audio Devices,NULL,6/1/2023,6/6/2023,1,url/to/headphones.jpg
+7,Speakers,All speaker types,Electronics,Audio Devices,NULL,7/1/2023,6/7/2023,1,url/to/speakers.jpg
+8,Cameras,All camera types,Electronics,Imaging Devices,NULL,8/1/2023,6/8/2023,1,url/to/cameras.jpg
+9,Monitors,All monitor types,Electronics,Display Devices,NULL,9/1/2023,6/9/2023,1,url/to/monitors.jpg
+10,Keyboards,All keyboard types,Electronics,Peripherals,NULL,10/1/2023,6/10/2023,1,url/to/keyboards.jpg
